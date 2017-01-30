@@ -1,0 +1,2 @@
+# Wavelet-Analysis-Based-Image-Fusion
+• Implemented fog-degraded image clearness based on wavelet fusion in MATLAB. • Developed an application in MATLAB to increase hiding capacity for color images in Steganography using wavelet fusion. • Implemented a wavelet based approach for texture classification with feature analysis in MATLAB. • Implemented a wavelet based technique for texture fusion of CT/MRI images in MATLAB.
